@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Pythonista
+email:       nminhnhat2008@gmail.com
+author:      Nhat Nguyen
+description: "No Where"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -37,14 +37,14 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
-bitbucket_username:
+github_username: nhat2008
+bitbucket_username: nhat2008
 stackoverflow_id:
 twitter_username:
-skype_username:
+skype_username: nminhnhat2008
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: https://vn.linkedin.com/in/nhatnm
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -86,8 +86,8 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
+    email:    'nminhnhat2008@gmail.com'
+    content:  'Backend Technology'
     subject:  'New submission!'
     submit:   'Say Hello'
     ajax:
@@ -108,5 +108,4 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
